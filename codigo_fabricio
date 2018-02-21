@@ -1,4 +1,0 @@
-# GABARITO
-def calcular_inss (salario):
-  if salario <= 1000:
-    return 0.0
